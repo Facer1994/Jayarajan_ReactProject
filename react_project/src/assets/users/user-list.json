@@ -1,0 +1,17 @@
+{
+    "users": [
+        {
+            "firstname": "Jayarajan",
+            "email": "jai.cse@gmail.com",
+            "password": "jai@12345",
+            "role": "Admin"
+        },
+        {
+            "firstname": "jai",
+            "email": "jai1994@gmail.com",
+            "password": "jaidjr@12345",
+            "role": "User"
+        }
+        
+    ]
+}
